@@ -101,7 +101,7 @@ const Navbar = ({ darkMode, toggleDarkMode }) => {
             
             {/* Resume Button */}
             <a
-              href="https://drive.google.com/file/d/1IoVu-m0IHbRRDZ-7WiH8cWkqUe1vWhG2/view"
+              href="https://drive.google.com/file/d/1DLRlPfF3VE-3hmo2KT9-HfP-_F43JI9z/view?usp=drivesdk"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-primary"
